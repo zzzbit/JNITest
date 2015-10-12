@@ -1,0 +1,34 @@
+﻿生成启动时间为 2012/12/12 21:28:20。
+     1>项目“C:\Users\zhangzhizhi\Documents\Visual Studio 2010\Projects\JNITest\JNITest\JNITest.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\JNITest.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Java\jdk1.7.0_01\include" /I"C:\Program Files (x86)\Java\jdk1.7.0_01\include\win32" /I"C:\Program Files\opencv\OpenCV2.1\bin" /I"C:\Program Files\opencv\OpenCV2.1\lib" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D JNITEST_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\JNITest.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Java\jdk1.7.0_01\include" /I"C:\Program Files (x86)\Java\jdk1.7.0_01\include\win32" /I"C:\Program Files\opencv\OpenCV2.1\bin" /I"C:\Program Files\opencv\OpenCV2.1\lib" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D JNITEST_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Java\jdk1.7.0_01\include" /I"C:\Program Files (x86)\Java\jdk1.7.0_01\include\win32" /I"C:\Program Files\opencv\OpenCV2.1\bin" /I"C:\Program Files\opencv\OpenCV2.1\lib" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D JNITEST_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\JNITest.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt JNITest.cpp
+         JNITest.cpp
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\zhangzhizhi\Documents\Visual Studio 2010\Projects\JNITest\Debug\JNITest.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\JNITest.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\zhangzhizhi\Documents\Visual Studio 2010\Projects\JNITest\Debug\JNITest.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\zhangzhizhi\Documents\Visual Studio 2010\Projects\JNITest\Debug\JNITest.lib" /MACHINE:X86 /DLL Debug\JNITest.dll.embed.manifest.res
+         Debug\dllmain.obj
+         Debug\JNITest.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\JNITest.dll.embed.manifest" /manifest Debug\JNITest.dll.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         JNITest.vcxproj -> C:\Users\zhangzhizhi\Documents\Visual Studio 2010\Projects\JNITest\Debug\JNITest.dll
+       FinalizeBuildStatus:
+         正在删除文件“Debug\JNITest.unsuccessfulbuild”。
+         正在对“Debug\JNITest.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\zhangzhizhi\Documents\Visual Studio 2010\Projects\JNITest\JNITest\JNITest.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.03
